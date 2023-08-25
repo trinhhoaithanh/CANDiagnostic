@@ -1,0 +1,11 @@
+LCD_display.c:15:6:spi1_communication	16	static
+LCD_display.c:39:6:lcd_write_byte	16	static
+LCD_display.c:52:6:lcd_write_command	16	static
+LCD_display.c:58:6:lcd_set_cursor	16	static
+LCD_display.c:78:6:lcd_clear_screen	24	static
+LCD_display.c:116:6:lcd_init	8	static
+LCD_display.c:255:6:lcd_write_word	16	static
+LCD_display.c:264:6:lcd_draw_dot	16	static
+LCD_display.c:279:6:lcd_display_char	32	static
+LCD_display.c:330:6:lcd_display_string	40	static
+LCD_display.c:355:6:lcd_display_GB2312	32	static
